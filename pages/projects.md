@@ -4,4 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-React Application: https://unitone-react-project.netlify.app/
+[Github](https://github.com/gitpuleo)
+
+[React Application](https://unitone-react-project.netlify.app/)
+
