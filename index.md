@@ -3,4 +3,7 @@ layout: default
 title: homepage
 ---
 
-If you can see this Jekyll is working. 
+Images to express your personal brand
+
+brief summary of who you are, what you can do (including new tech skills), and what you are seeking for your career
+
