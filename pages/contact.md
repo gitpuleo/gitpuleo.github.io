@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-[Email:](nfpuleo@gmail.com)
+[Send me an email!](mailto:nfpuleo@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/nfplse/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nfplse/)
 
