@@ -4,8 +4,9 @@ title: Resume
 permalink: /resume/
 ---
 
-I studied I learned things.
+
+[Download a PDF of my resume]({{'assets/images/resume.pdf'}})
 
 
-/download link/
-/visual representation/
+
+

@@ -8,7 +8,7 @@ Images to express your personal brand
 <img src="{{ '/assets/images/swiss.JPG' | relative_url }}" 
      alt="aerial tram view on Swiss countryside" 
      class="image"
-     width="400" />
+     width="800" />
 
 
 
