@@ -5,7 +5,7 @@ title: homepage
 
 Images to express your personal brand
 
-<img src="{{ '/assets/images/swiss.jpg' | relative_url }}" 
+<img src="{{ '/assets/images/swiss.JPG' | relative_url }}" 
      alt="aerial tram view on Swiss countryside" 
      class="image"
      width="400" />
