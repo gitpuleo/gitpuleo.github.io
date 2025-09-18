@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,32 +20,27 @@
   <body>
       <div id="header">
         <nav>
-          <div class="navbar">
-<a href="https://gitpuleo.github.io/">Home</a>
-<a href="https://gitpuleo.github.io/resume/">Resume</a>
-<a href="https://gitpuleo.github.io/portfolio/">Portfolio</a>
-<a href="https://gitpuleo.github.io/projects/">Projects</a>
-<a href="https://gitpuleo.github.io/about/">About Me</a>
-<a href="https://gitpuleo.github.io/contact/">Contact</a>
-</div>
+            {% include navbar.html %}
         </nav>
       </div><!-- end header -->
 
     <div class="wrapper">
 
       <section>
-        <!-- >
+
         <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>
+          <h1>Nick Puleo</h1>
+          <p>BFA, BA, MSc</p>
           <hr>
+          {% comment %}
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+            {% endcomment %}
         </div>
-            -->
+
         {{ content }}
 
-      </section> 
+      </section>
 
     </div>
   </body>
