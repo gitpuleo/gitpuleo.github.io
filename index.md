@@ -10,11 +10,23 @@ title: homepage
 <p>Hi there, and welcome to my portfolio site. I am a lifelong interdisciplinary learner chasing as many threads as time and attention will allow. I collect ideas with the obsession others reserve for stamps or coins. My journey to tech was a decade long associational leap from one domain to the next that traces a path through increasing complexity.<p>
 <p style="font-style: italic;"> Writing -> Linguistics -> ESL Education -> Sociology & Anthropology -> Economics and Political Economy -> Quantitative & Qaulitative Research -> Software Development & Data Analysis.<p> 
 
-<p>Looking for a career where continuous learning and cross-domain knowledge are valued <p>
+<p>Looking for a career where continuous learning is prioritized and cross-domain knowledge valued.<p>
 
-Languages: JavaScript, Java, SQL
-Frameworks: React, Spring Boot
-Currently Learning: Python
+<table>
+<tr>
+<td>Languages</td>
+<td>Java, JavaScript, SQL</td>
+</tr>
+<tr>
+<td>Frameworks</td>
+<td>React, Spring Boot</td>
+</tr>
+<tr>
+<td>Currently Learning</td>
+<td>Python</td>
+</tr>
+</table>
+
 
 
 

@@ -4,12 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-Dynamic CV
+Dynamic CV: <br>
 [React Application](https://unitone-react-project.netlify.app/)
 
 ~demo of project with screenshots~ 
 
-Other projects
+Other projects: <br>
 [Github](https://github.com/gitpuleo)
 
 

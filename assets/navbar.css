@@ -1,7 +1,22 @@
 
 
 navbar {
-    text-decoration: dotted;
+    background-color: #333333;
     
 }
 
+.navbar ul {
+    justify-content: center;
+    gap: 1rem;
+    list-style: none;
+
+}
+
+.navbar a {
+    color:white;
+    border-radius: 2px;
+}
+
+.navbar a:hover {
+    background-color: #4444;
+}
