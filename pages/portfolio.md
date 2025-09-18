@@ -3,6 +3,8 @@ layout: default
 title: Portfolio
 permalink: /portfolio/
 ---
+{% include navbar.html %}
 
-portfolio of projects
+portfolio of other work
 ...
+
