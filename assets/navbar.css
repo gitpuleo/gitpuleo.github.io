@@ -1,7 +1,7 @@
 
 
-navbar {
-    background-color: #333333;
+.navbar {
+    background-color: #312f2f;
     
 }
 
@@ -13,10 +13,10 @@ navbar {
 }
 
 .navbar a {
-    color:white;
-    border-radius: 2px;
+    color:#f0c674;
+    border-radius: 3px;
 }
 
 .navbar a:hover {
-    background-color: #4444;
+    background-color: #39363644;
 }
