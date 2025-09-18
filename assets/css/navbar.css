@@ -2,21 +2,23 @@
 
 .navbar {
     background-color: #312f2f;
+    align-items: center;
+    justify-content: center;
     
 }
 
-.navbar ul {
-    justify-content: center;
+.nav_link {
+    
     gap: 1rem;
     list-style: none;
 
 }
 
-.navbar a {
+.nav_link a {
     color:#f0c674;
     border-radius: 3px;
 }
 
-.navbar a:hover {
+.nav_link a:hover {
     background-color: #39363644;
 }
