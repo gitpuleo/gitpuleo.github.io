@@ -3,7 +3,6 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
-{% include navbar.html %}
 
 I'd love to hear from you, you can
 

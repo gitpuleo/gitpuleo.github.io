@@ -2,7 +2,6 @@
 layout: default
 title: homepage
 ---
-{% include navbar.html %}
 <img src="{{ '/assets/images/swiss.JPG' | relative_url }}" 
      alt="aerial tram view on Appennzell countryside" 
      class="image"
