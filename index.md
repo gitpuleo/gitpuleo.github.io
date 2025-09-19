@@ -26,4 +26,4 @@ title: homepage
      class="image"
      width="800" />
 
-
+I can put plain text here 
