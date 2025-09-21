@@ -25,5 +25,3 @@ title: homepage
      alt="aerial tram view on Appennzell countryside" 
      class="image"
      width="800" />
-
-I can put plain text here 
